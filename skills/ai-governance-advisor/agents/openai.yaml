@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Governance Advisor"
+  short_description: "Enterprise AI governance, risk and ISO readiness"
+  default_prompt: "Use $ai-governance-advisor to build an evidence-based AI governance program for my enterprise."

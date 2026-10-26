@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGP Study Coach"
+  short_description: "AIGP learning, scenarios and complete syllabus mapping"
+  default_prompt: "Use $aigp-study-coach to diagnose my knowledge and build an AIGP study plan."

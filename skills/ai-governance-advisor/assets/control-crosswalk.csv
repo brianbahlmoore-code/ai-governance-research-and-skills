@@ -1,0 +1,21 @@
+internal_control,objective,nist_function,iso42001_topic,aigp_competency,evidence,mapping_strength,limitation
+GOV-01,Define accountability,GOVERN,Leadership,I.B,Charter and decision rights,topic,Verify exact standard criteria
+GOV-02,Inventory AI uses,GOVERN,Context and operation,I.C,Versioned inventory,topic,Inventory alone does not establish risk coverage
+GOV-03,Establish applicable obligations,GOVERN,Context and planning,II.A-II.C,Applicability register,topic,Legal scope needs current primary sources
+GOV-04,Assess affected people,MAP,Impact assessment,III.A;IV.B,Impact assessment and consultation,topic,Does not replace statutory assessments
+GOV-05,Define risk criteria,GOVERN,Planning,III.A,Approved risk method,topic,No universal risk formula implied
+GOV-06,Establish data rights and quality,MAP,Data governance,III.B,Provenance and quality records,topic,Independent rights and fitness checks needed
+GOV-07,Validate intended use,MEASURE,Lifecycle operation,III.B,Configuration-specific tests,topic,Model benchmarks are insufficient
+GOV-08,Test human oversight,MEASURE,Responsible use,III.A;IV.C,Intervention exercises,topic,Nominal reviewer assignment is insufficient
+GOV-09,Control release,MANAGE,Operation,III.C,Scoped release decision,topic,Decision is version and use-case specific
+GOV-10,Assess suppliers,MAP;MANAGE,Third-party relationships,I.C;IV.B,Due diligence and conditions,topic,Certificate does not validate AI fitness
+GOV-11,Monitor harms and performance,MEASURE;MANAGE,Performance evaluation,III.C;IV.C,Metrics and response records,topic,Thresholds require use-case justification
+GOV-12,Reassess material changes,MANAGE,Operation and improvement,III.C;IV.C,Change log and regression evidence,topic,No silent continuation after changed assumptions
+GOV-13,Respond to incidents,MANAGE,Operation and improvement,III.C;IV.C,Incident and remediation records,topic,Notification duties are jurisdiction specific
+GOV-14,Operate appeal and remedy,MANAGE,Responsible use,IV.C,Appeal records and resolution tests,topic,Must work for affected people
+GOV-15,Train accountable personnel,GOVERN,Support,I.B,Role-specific competency evidence,topic,Attendance is not competence
+GOV-16,Conduct independent assurance,MEASURE,Performance evaluation,III.C;IV.C,Audit and validation findings,topic,Internal assurance is not certification
+GOV-17,Review management effectiveness,GOVERN,Leadership and evaluation,I.B,Review decisions and follow-up,topic,Metrics do not prove legal compliance
+GOV-18,Retire safely,MANAGE,Operation,IV.C,Exit and deletion verification,topic,Upstream artifacts require separate treatment
+GOV-19,Constrain agent authority,GOVERN;MANAGE,Responsible use,IV.A;IV.C,Tool permissions and transaction tests,contextual,Original architecture-specific control
+GOV-20,Preserve evidence traceability,GOVERN,Documented information,I.C;III.C,Artifact index and version history,topic,Crosswalk is not equivalence or conformity proof

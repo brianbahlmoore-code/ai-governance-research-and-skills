@@ -1,0 +1,59 @@
+local_objective_id,official_competency,original_study_objective,applied_exercise,mastery,status
+I.A-01,I.A,Distinguish AI definitions and types,Classify three enterprise uses,unassessed,not started
+I.A-02,I.A,Analyze harms at individual group organizational and societal levels,Map affected parties,unassessed,not started
+I.A-03,I.A,Explain why AI needs specific governance,Compare deterministic software and a learned model,unassessed,not started
+I.A-04,I.A,Apply responsible AI principles,Convert a principle into a control and test,unassessed,not started
+I.B-01,I.B,Assign governance responsibilities,Build a role matrix,unassessed,not started
+I.B-02,I.B,Enable cross-functional challenge,Design a release review,unassessed,not started
+I.B-03,I.B,Design role-specific training,Write an owner training exercise,unassessed,not started
+I.B-04,I.B,Tailor governance to organizational context,Compare startup and enterprise governance,unassessed,not started
+I.B-05,I.B,Distinguish lifecycle actor roles,Map provider and deployer responsibilities,unassessed,not started
+I.C-01,I.C,Establish lifecycle accountability policies,Define evidence at each release gate,unassessed,not started
+I.C-02,I.C,Adapt existing enterprise policies for AI,Review privacy security and IP gaps,unassessed,not started
+I.C-03,I.C,Integrate third-party governance,Design procurement conditions,unassessed,not started
+II.A-01,II.A,Apply transparency choice purpose and lawful-processing concepts,Analyze reuse of customer data,unassessed,not started
+II.A-02,II.A,Apply minimization and privacy by design,Reduce a data flow,unassessed,not started
+II.A-03,II.A,Analyze controller obligations and related processes,Map processors rights transfers and assessments,unassessed,not started
+II.A-04,II.A,Identify sensitive-data issues,Assess a biometric use,unassessed,not started
+II.B-01,II.B,Analyze intellectual-property issues,Review training and output rights separately,unassessed,not started
+II.B-02,II.B,Identify nondiscrimination concerns,Assess proxy bias in selection,unassessed,not started
+II.B-03,II.B,Analyze consumer-protection concerns,Review an unsupported capability claim,unassessed,not started
+II.B-04,II.B,Identify product-liability issues,Analyze a safety-critical failure scenario,unassessed,not started
+II.C-01,II.C,Apply legal AI risk classifications,Classify using use role and jurisdiction,unassessed,not started
+II.C-02,II.C,Recognize documentation data and assessment obligations,Build an applicability register,unassessed,not started
+II.C-03,II.C,Recognize oversight transparency and quality duties,Map operational evidence,unassessed,not started
+II.C-04,II.C,Distinguish general-purpose-model obligations,Separate model and downstream system roles,unassessed,not started
+II.C-05,II.C,Understand enforcement and consequences,Verify current regulator powers and sanctions,unassessed,not started
+II.C-06,II.C,Analyze role-dependent legal responsibilities,Assess a changed-purpose deployment,unassessed,not started
+II.D-01,II.D,Apply OECD governance principles,Translate a principle into a decision,unassessed,not started
+II.D-02,II.D,Use NIST functions categories and subcategories,Build a context-specific profile,unassessed,not started
+II.D-03,II.D,Distinguish ISO terminology management and impact standards,Choose 22989 42001 or 42005,unassessed,not started
+III.A-01,III.A,Define business purpose and use case,Compare an AI and non-AI option,unassessed,not started
+III.A-02,III.A,Perform design-stage impact assessment,Map affected people and harms,unassessed,not started
+III.A-03,III.A,Apply governance to architecture and design,Define oversight metrics and requirements,unassessed,not started
+III.A-04,III.A,Manage development risks and contributing factors,Write causal scenarios and treatments,unassessed,not started
+III.A-05,III.A,Document design decisions,Produce a traceable design record,unassessed,not started
+III.B-01,III.B,Establish data rights and fitness,Review provenance quality and allowed use,unassessed,not started
+III.B-02,III.B,Document data lineage and provenance,Trace a transformed dataset,unassessed,not started
+III.B-03,III.B,Plan model and system evaluation,Create representative test cases,unassessed,not started
+III.B-04,III.B,Resolve training and testing risks,Analyze leakage and subgroup failures,unassessed,not started
+III.B-05,III.B,Document training and evaluation,Write methods results and limitations,unassessed,not started
+III.C-01,III.C,Establish release readiness,Review a versioned release pack,unassessed,not started
+III.C-02,III.C,Plan monitoring maintenance and retraining,Set change and drift triggers,unassessed,not started
+III.C-03,III.C,Conduct periodic system assurance,Design audit and adversarial coverage,unassessed,not started
+III.C-04,III.C,Manage incidents issues and risks,Create an incident record,unassessed,not started
+III.C-05,III.C,Investigate causes across disciplines,Analyze a brittle-model incident,unassessed,not started
+III.C-06,III.C,Provide appropriate external information,Prepare operating limitations and disclosures,unassessed,not started
+IV.A-01,IV.A,Assess deployment context and readiness,Define workforce and performance needs,unassessed,not started
+IV.A-02,IV.A,Compare model types and capabilities,Evaluate model tradeoffs for a task,unassessed,not started
+IV.A-03,IV.A,Compare deployment and adaptation architectures,Compare API RAG fine-tuning and agents,unassessed,not started
+IV.B-01,IV.B,Assess deployment-specific impacts,Adapt a provider assessment to local use,unassessed,not started
+IV.B-02,IV.B,Evaluate vendor and license terms,Review training change and exit clauses,unassessed,not started
+IV.B-03,IV.B,Analyze proprietary-model responsibilities,Compare build and buy obligations,unassessed,not started
+IV.C-01,IV.C,Apply operational governance policies,Design user training and control ownership,unassessed,not started
+IV.C-02,IV.C,Maintain live performance and updates,Define production monitoring,unassessed,not started
+IV.C-03,IV.C,Perform periodic operational assurance,Test production-relevant failure conditions,unassessed,not started
+IV.C-04,IV.C,Maintain incident and monitoring records,Build a post-deployment evidence log,unassessed,not started
+IV.C-05,IV.C,Anticipate secondary uses and downstream harms,Assess purpose expansion,unassessed,not started
+IV.C-06,IV.C,Plan external communication,Draft incident and limitation communications,unassessed,not started
+IV.C-07,IV.C,Define deactivation and localization controls,Rehearse restriction and safe exit,unassessed,not started

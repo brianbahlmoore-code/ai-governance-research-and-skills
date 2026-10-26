@@ -1,0 +1,137 @@
+[
+  {
+    "path": "ai-governance-advisor/SKILL.md",
+    "sha256": "f8e800a4eff5623e9e07fe1dc93d78f0b8ce77356824b5d8cd099a7fa04af43c",
+    "bytes": 5013
+  },
+  {
+    "path": "ai-governance-advisor/agents/openai.yaml",
+    "sha256": "86815898013668a0b192a2e4d401de36d0fe95453032af5507e6676acd5df1a2",
+    "bytes": 238
+  },
+  {
+    "path": "ai-governance-advisor/assets/assessment-template.md",
+    "sha256": "bbaf6f29b3a394742cf5f5a011af29d4d21ac3298082dcbdd66bfaf358ef2ff0",
+    "bytes": 1797
+  },
+  {
+    "path": "ai-governance-advisor/assets/control-crosswalk.csv",
+    "sha256": "7d55c37b92ca1f24c289c579bf2f81d1cb40f57eeda1188c2a13184cd0aa25c3",
+    "bytes": 2947
+  },
+  {
+    "path": "ai-governance-advisor/assets/program-template.md",
+    "sha256": "3ec2269148d23f4aed8cf9a7e5a68889cb497f6ecb00a10b2f0e32edfde0e96e",
+    "bytes": 1373
+  },
+  {
+    "path": "ai-governance-advisor/references/framework-map.md",
+    "sha256": "b3f9e0afd2afb749dc4f266409e041540291dcca3ddad76ba761628b6a017d1d",
+    "bytes": 5415
+  },
+  {
+    "path": "ai-governance-advisor/references/genai-agentic.md",
+    "sha256": "1d570ec2b9f085962f8ce3dafbc4a621610d134e3b07b86cdb23ff58d367734a",
+    "bytes": 5064
+  },
+  {
+    "path": "ai-governance-advisor/references/governance-program.md",
+    "sha256": "149f3eef5488af96b1e9a5cb763bcda53e8a36033cb95bb6b282b9acad84014c",
+    "bytes": 5633
+  },
+  {
+    "path": "ai-governance-advisor/references/iso42001-readiness.md",
+    "sha256": "ee5c9d7769079bda6716f82a8ca4ea98cc9bdda6fb1b8728ae5fda01b1e970a3",
+    "bytes": 5333
+  },
+  {
+    "path": "ai-governance-advisor/references/legal-applicability.md",
+    "sha256": "500413aa08f315ae05f00cb45ba7f638cfc1be31db538f04b23ae1d90c3d4f58",
+    "bytes": 4953
+  },
+  {
+    "path": "ai-governance-advisor/references/nist-rmf-practice.md",
+    "sha256": "7173a1ecd8ef85017143cb77000515a933f1aeac8615080396b586892cbd2ac1",
+    "bytes": 6347
+  },
+  {
+    "path": "ai-governance-advisor/references/risk-method.md",
+    "sha256": "7abb315989abbee1aa29385271cf000b94da769d8899ec1adccf8f0fd8ba7d17",
+    "bytes": 8516
+  },
+  {
+    "path": "ai-governance-advisor/references/sources.md",
+    "sha256": "f8286bf1b8c6baf27451881585ed8241d000a816ab39bde541893cea6a86af8f",
+    "bytes": 9187
+  },
+  {
+    "path": "ai-third-party-risk/SKILL.md",
+    "sha256": "2d2584027124a6e4acf62e553d720e8e6b2e9c6ffb8713455eecc1fe4bd40ff3",
+    "bytes": 3142
+  },
+  {
+    "path": "ai-third-party-risk/agents/openai.yaml",
+    "sha256": "fc014da2f22955a5235766d422f658959e382bd6644c2a93c1af7de5d2fdfd19",
+    "bytes": 239
+  },
+  {
+    "path": "ai-third-party-risk/assets/vendor-review-template.md",
+    "sha256": "43b21c3cf6f928b91089bce0a11f5522ce83555a33031df97e35f37769341c3f",
+    "bytes": 1487
+  },
+  {
+    "path": "ai-third-party-risk/references/assessment-method.md",
+    "sha256": "77dd5a0b6b70e0e54b594c9ad74358788bf6189f4effa622d5861f5652134e7b",
+    "bytes": 7833
+  },
+  {
+    "path": "ai-third-party-risk/references/questionnaire.md",
+    "sha256": "35852cfaa1825524bc667d566fd8462f03c3e70b605d2b81aa9645ac662dc360",
+    "bytes": 5727
+  },
+  {
+    "path": "ai-third-party-risk/references/sources.md",
+    "sha256": "e744a919655385ec2d00b6b07d5cd1ea3e6059fd04fe84668feee229c12f4a4f",
+    "bytes": 2167
+  },
+  {
+    "path": "aigp-study-coach/SKILL.md",
+    "sha256": "4c9d404d95174d5e2f64fc2b6e61e63797049b57645aeb9b4002b1d9c437366a",
+    "bytes": 3517
+  },
+  {
+    "path": "aigp-study-coach/agents/openai.yaml",
+    "sha256": "52b9a36bcf362a14303a6bf26dd850428bbcc1c0e7941a4c5a168942e1617462",
+    "bytes": 221
+  },
+  {
+    "path": "aigp-study-coach/assets/coverage-map.csv",
+    "sha256": "b737e43720f4bbcbaa0a2901cbfc35b620e53de866c6553ca49de76aa38266e1",
+    "bytes": 6578
+  },
+  {
+    "path": "aigp-study-coach/references/concepts.md",
+    "sha256": "5268b184c35d11e629566845bc69c3574a63c6267a431089f0605bbbeeb6fc30",
+    "bytes": 6423
+  },
+  {
+    "path": "aigp-study-coach/references/curriculum.md",
+    "sha256": "359deb9576f200f9249b7b4911f1409054b21442dd830d066f6d45bdab1ed93a",
+    "bytes": 11040
+  },
+  {
+    "path": "aigp-study-coach/references/exam-and-study-plan.md",
+    "sha256": "0e5af6bd063e5c6e7ca844c742792ae73e3fb521247e588add38f8aeb4c4cca8",
+    "bytes": 4766
+  },
+  {
+    "path": "aigp-study-coach/references/practice-bank.md",
+    "sha256": "9f6c7394d84650aaae7bc24a4a4024d4adb0d617abcc99faa850293e1b7850ea",
+    "bytes": 13438
+  },
+  {
+    "path": "aigp-study-coach/references/sources.md",
+    "sha256": "bc62bee438385cf2851174115f58e1f4eeeb2b9604ae8c35e58f75b1b9f6a870",
+    "bytes": 2723
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Third-Party Risk"
+  short_description: "Assess AI vendors, contracts and ongoing exposure"
+  default_prompt: "Use $ai-third-party-risk to assess an AI vendor for our intended use and identify evidence gaps."
